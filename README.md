@@ -55,8 +55,7 @@ Coming soon! I'm working on practical projects to demonstrate my technical skill
 ## 🤝 Connect With Me
 
 - **LinkedIn:** https://www.linkedin.com/in/jangala-joe-1333ab248/
-- **GitHub:** https://github.com/joe-jangala
-- **Hashnode:** https://hashnode.com/@joejangala
+- **X:** https://x.com/joe_jangala
 
 ---
 
