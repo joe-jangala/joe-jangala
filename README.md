@@ -48,9 +48,9 @@ Coming soon! I'm working on practical projects to demonstrate my technical skill
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joe-jangala&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=joe-jangala&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joe-jangala&layout=compact&theme=github_dark)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=joe-jangala&layout=compact&theme=github_dark)
 
 ## 🤝 Connect With Me
 
